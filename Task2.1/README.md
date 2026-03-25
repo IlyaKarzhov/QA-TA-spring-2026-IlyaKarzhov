@@ -68,8 +68,8 @@ API_URL=https://your-local-host
 ## Локальный запуск
 
 ```bash
-git clone <url>
-cd Task2.1
+git clone https://github.com/IlyaKarzhov/QA-TA-spring-2026-IlyaKarzhov.git
+cd QA-TA-spring-2026-IlyaKarzhov/Task2.1
 
 # Установить зависимости
 go mod download
