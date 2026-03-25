@@ -1,0 +1,9 @@
+# Allure artifacts
+allure-results/
+allure-report/
+tests/**/allure-results/
+
+# Go build artifacts
+*.exe
+*.test
+*.out
